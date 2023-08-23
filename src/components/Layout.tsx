@@ -5,7 +5,8 @@ import { t, Trans } from "@lingui/macro"
 import { useLingui } from "@lingui/react"
 import { useRouter } from "next/router"
 
-export function Layout({ title = null, className = "", children }) {
+export function Layout(payload:any) {
+  let { title='', children=null } = payload;
   /**
    * This hook is needed to subscribe your
    * component for changes if you use t`` macro
@@ -17,7 +18,7 @@ export function Layout({ title = null, className = "", children }) {
   // Default props can't be translated at module level because active locale
   // isn't known when module is imported, but rather when component
   // is rendered.
-  if (title == null) {
+  if (title == '') {
     title = t`Example project using LinguiJS`
   }
 

@@ -23,7 +23,7 @@ export default function Home() {
   return (
     <Layout>
       <h1>
-        <Trans>Examples</Trans>
+        <Trans>hello</Trans>
       </h1>
 
       <h2>
@@ -31,7 +31,7 @@ export default function Home() {
       </h2>
 
       <PluralExample
-        render={({ value }) => (
+        render={({ value }:{value:any}) => (
           <p>
             <Plural
               value={value}
@@ -43,7 +43,7 @@ export default function Home() {
       />
 
       <PluralExample
-        render={({ value }) => (
+        render={({ value }:{value:any}) => (
           <p>
             {plural(value, {
               one: "There's one book",

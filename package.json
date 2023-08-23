@@ -1,17 +1,18 @@
 {
-  "name": "nextjs",
+  "name": "bionote",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
     "lint": "next lint",
     "extract": "lingui extract",
-    "compile": "lingui compile"
+    "compile": "lingui compile",
+    "build": "npm run lang:extract && next build",
+    "start": "next start",
+    "lang:extract": "lingui extract --clean"
   },
   "dependencies": {
-    "@babel/preset-typescript": "^7.22.5",
+    "@lingui/core": "^4.4.0",
     "@lingui/react": "^4.4.0",
     "@types/node": "20.5.0",
     "@types/react": "18.2.20",
@@ -27,10 +28,9 @@
     "typescript": "5.1.6"
   },
   "devDependencies": {
-    "@babel/core": "^7.22.10",
     "@lingui/cli": "^4.4.0",
     "@lingui/loader": "^4.4.0",
     "@lingui/macro": "^4.4.0",
-    "babel-plugin-macros": "^3.1.0"
+    "@lingui/swc-plugin": "^4.0.4"
   }
 }

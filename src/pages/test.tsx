@@ -1,6 +1,6 @@
-import { Trans } from "@lingui/macro";
 import { GetStaticProps } from "next"
 import { loadCatalog } from "../i18n"
+import { Trans } from "@lingui/macro";
 
 export const getStaticProps: GetStaticProps = async (ctx) => {
     const translation = await loadCatalog(ctx.locale!)
@@ -10,6 +10,7 @@ export const getStaticProps: GetStaticProps = async (ctx) => {
         },
     }
 }
+
 export default function Test() {
     return (
         <div className="text-red-700">

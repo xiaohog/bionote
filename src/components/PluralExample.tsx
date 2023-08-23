@@ -1,6 +1,6 @@
 import React from "react"
 
-export function PluralExample({ initialValue = 1, render }) {
+export function PluralExample({ initialValue = 1, render }:{initialValue?:number,render:any}) {
   const [value, setValue] = React.useState(initialValue)
 
   return (

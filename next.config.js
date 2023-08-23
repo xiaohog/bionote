@@ -6,5 +6,10 @@ module.exports = {
       locales: ["en", "cs", "pseudo"],
       defaultLocale: "en",
     },
+    experimental: {
+      swcPlugins: [
+        ['@lingui/swc-plugin', {}],
+      ],
+    },
   }
   
