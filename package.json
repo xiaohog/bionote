@@ -29,6 +29,7 @@
   "devDependencies": {
     "@babel/core": "^7.22.10",
     "@lingui/cli": "^4.4.0",
+    "@lingui/loader": "^4.4.0",
     "@lingui/macro": "^4.4.0",
     "babel-plugin-macros": "^3.1.0"
   }
