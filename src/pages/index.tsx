@@ -1,5 +1,4 @@
 import Link from "next/link"
-
 import { Trans } from "@lingui/macro"
 
 import { Layout } from "../components/Layout"
@@ -16,40 +15,25 @@ export const getStaticProps: GetStaticProps = async (ctx) => {
 }
 
 export default function Home() {
+  const cardClassName = 'w-40 h-40 mr-10 bg-bio-white text-xl text-black font-black font-serif rounded-lg flex items-center justify-center \
+  \hover:bg-bio-yellow hover:shadow-lg hover:shadow-bio-white hover:text-bio-white\
+  \duration-300';
   return (
     <Layout>
-      <h1>
-        <Trans>
-          Welcome to <a href="https://lingui.dev">LinguiJS!</a>
-        </Trans>
-      </h1>
-      <p>
-        <Trans>
-          Get started by editing{" "}
-          <code>locales/en.po</code>
-        </Trans>
-      </p>
-      <div>
-        <a href="https://lingui.dev">
-          <h3>
-            <Trans>Documentation →</Trans>
-          </h3>
-          <p>
+      <Link href={'/resume'}>
+        <div className={cardClassName}>
             <Trans>
-              Find in-depth information about LinguiJS features and API.
+              My Resume
             </Trans>
-          </p>
-        </a>
-
-        <Link href="/examples">
-          <h3>
-            <Trans>Examples →</Trans>
-          </h3>
-          <p>
-            <Trans>Checkout LinguiJS examples and usecases.</Trans>
-          </p>
-        </Link>
-      </div>
+        </div>
+      </Link>
+      <Link href={'https://lsee.top'}>
+        <div className={cardClassName}>
+            <Trans>
+              My Website
+            </Trans>
+        </div>
+      </Link>
     </Layout>
   )
 }

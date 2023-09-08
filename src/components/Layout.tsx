@@ -19,31 +19,23 @@ export function Layout(payload:any) {
   // isn't known when module is imported, but rather when component
   // is rendered.
   if (title == '') {
-    title = t`Example project using LinguiJS`
+    title = t`my vercel web`
   }
-
+  const buttonClassName = "text-white hover:outline hover:outline-offset-2 p-0.5 rounded-md";
+  const containerClassName = `min-h-screen flex items-center relative ${pathname==='/'?'padding__animation--main ':''}page__background--main`;
+  
   return (
-    <div>
+    <div className={containerClassName}>
       <Head>
         <title>{title}</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main>{children}</main>
+      <main className="flex w-screen">{children}</main>
 
-      <footer>
-        <a
-          href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Trans>
-            Powered by{" "}
-            <img src="/vercel.svg" alt="Vercel Logo"/>
-          </Trans>
-        </a>
-        &nbsp;{" | "}
+      <footer className="absolute right-4 top-4">
         <button
+          className={buttonClassName}
           onClick={() =>
             router.push({ pathname, query }, asPath, { locale: "en" })
           }
@@ -52,11 +44,12 @@ export function Layout(payload:any) {
         </button>
         {" | "}
         <button
+        className={buttonClassName}
           onClick={() =>
-            router.push({ pathname, query }, asPath, { locale: "cs" })
+            router.push({ pathname, query }, asPath, { locale: "zh" })
           }
         >
-          Česky
+          中文
         </button>
       </footer>
     </div>

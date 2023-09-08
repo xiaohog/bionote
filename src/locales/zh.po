@@ -5,7 +5,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: @lingui/cli\n"
-"Language: pseudo\n"
+"Language: zh\n"
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "PO-Revision-Date: \n"
@@ -15,184 +15,184 @@ msgstr ""
 
 #: src/pages/resume.tsx:65
 msgid "0086-17612200673"
-msgstr ""
+msgstr "17612200673"
 
 #: src/pages/resume.tsx:97
 msgid "2017.09-2019.06"
-msgstr ""
+msgstr "2017.09-2019.06"
 
 #: src/pages/resume.tsx:151
 msgid "2021.10—NOW"
-msgstr ""
+msgstr "2021.10—至今"
 
 #: src/pages/resume.tsx:74
 msgid "2522202958@qq.com"
-msgstr ""
+msgstr "2522202958@qq.com"
 
 #: src/pages/resume.tsx:56
 msgid "Beijing"
-msgstr ""
+msgstr "北京市"
 
 #: src/pages/resume.tsx:46
 msgid "Birthday:"
-msgstr ""
+msgstr "生日："
 
 #: src/pages/resume.tsx:141
 msgid "China Electronics Technology Group 15th Research Institute"
-msgstr ""
+msgstr "中国电子科技集团第十五研究所"
 
 #: src/pages/resume.tsx:53
 msgid "Current Residence:"
-msgstr ""
+msgstr "现居："
 
 #: src/pages/resume.tsx:83
 msgid "discuss personally"
-msgstr ""
+msgstr "面议"
 
 #: src/pages/resume.tsx:100
 msgid "Education:Postgraduate"
-msgstr ""
+msgstr "学历：硕士研究生"
 
 #: src/pages/resume.tsx:93
 msgid "Educational Background"
-msgstr ""
+msgstr "教育背景"
 
 #: src/pages/resume.tsx:71
 msgid "Email:"
-msgstr ""
+msgstr "邮箱："
 
 #: src/pages/resume.tsx:80
 msgid "Expected Salary:"
-msgstr ""
+msgstr "期待薪资："
 
 #: src/pages/resume.tsx:242
 msgid "I have strong professional abilities, a spirit of exploration, a wide range of interests in daily life, strong ability to withstand pressure, and am good at teamwork."
-msgstr ""
+msgstr "本人专业能力强，具有探索精神，平时兴趣广泛，抗压能力较强，擅于团队合作。"
 
 #: src/pages/resume.tsx:36
 msgid "Job Intention: Front-end Development Engineer"
-msgstr ""
+msgstr "求职意向：前端开发工程师"
 
 #: src/pages/resume.tsx:154
 msgid "Kyushu Securities Co., Ltd"
-msgstr ""
+msgstr "九州证券有限公司"
 
 #: src/pages/resume.tsx:145
 msgid "Mainly using the Reactjs and Vuejs frameworks, developing echart views, docking with company military projects, and developing PC and mobile web pages."
-msgstr ""
+msgstr "主要使用reactjs和vuejs框架，开发echart视图，对接公司军工项目，开发PC端和移动端网页。"
 
 #: src/pages/resume.tsx:99
 msgid "Major: Computer Technology"
-msgstr ""
+msgstr "专业：计算机技术"
 
 #: src/pages/resume.tsx:179
 msgid "Master the usage methods and basic principles of Node.js, NPM, webpack, and vite packaging tools."
-msgstr ""
+msgstr "掌握Node.js,npm,webpack，vite打包工具的使用方法和基本原理。"
 
 #: src/pages/index.tsx:25
 msgid "My Resume"
-msgstr ""
+msgstr "我的简历"
 
 #: src/pages/resume.tsx:24
 msgid "MY RESUME"
-msgstr ""
+msgstr "我的简历"
 
 #: src/components/Layout.tsx:22
 msgid "my vercel web"
-msgstr ""
+msgstr "我的Vercel站点"
 
 #: src/pages/index.tsx:32
 msgid "My Website"
-msgstr ""
+msgstr "我的网站"
 
 #: src/pages/resume.tsx:98
 msgid "Nankai University"
-msgstr ""
+msgstr "南开大学"
 
 #: src/pages/resume.tsx:62
 msgid "Phone:"
-msgstr ""
+msgstr "电话："
 
 #: src/pages/resume.tsx:169
 msgid "Professional Skills"
-msgstr ""
+msgstr "专业技能"
 
 #: src/pages/resume.tsx:176
 msgid "Proficient in mastering the basic operating commands of Linux, proficient in building server environments and fixing server issues."
-msgstr ""
+msgstr "熟练掌握linux基本操作命令，擅长搭建服务器环境和服务器问题修复。"
 
 #: src/pages/resume.tsx:173
 msgid "Proficient in React, Vue, JavaScript, and ES6 syntax, with basic data structure and algorithm practice and application abilities."
-msgstr ""
+msgstr "熟练掌握react，vue，javascript，es6语法，具有基本数据结构和算法实践和应用能力。"
 
 #: src/pages/resume.tsx:182
 msgid "Proficient in using version control tools such as git, tapd, and release tools for project progress control."
-msgstr ""
+msgstr "熟练使用git，tapd等版本控制工具和发布工具进行项目进度控制。"
 
 #: src/pages/resume.tsx:193
 msgid "PROJECT 1: Anxin Sign"
-msgstr ""
+msgstr "项目一：安心签"
 
 #: src/pages/resume.tsx:204
 msgid "PROJECT 2: Investment Master Background Management System"
-msgstr ""
+msgstr "项目二：投资大师后台管理系统"
 
 #: src/pages/resume.tsx:215
 msgid "PROJECT 3: Hybrid APP embedded in H5 project"
-msgstr ""
+msgstr "项目三：Hybrid APP嵌入H5项目"
 
 #: src/pages/resume.tsx:226
 msgid "PROJECT 4: Opening an account with Tonghuashun"
-msgstr ""
+msgstr "项目四：同花顺开户"
 
 #: src/pages/resume.tsx:188
 msgid "Project Experience"
-msgstr ""
+msgstr "项目经历"
 
 #: src/pages/resume.tsx:119
 msgid "Research and exploration of JavaScript obfuscation systems, machine learning to distinguish malicious sliding trajectories, such as automata malicious logins, etc."
-msgstr ""
+msgstr "设计实现javascript混淆系统，机器学习区分恶意滑动轨迹，即自动机恶意登录等。"
 
 #: src/pages/resume.tsx:158
 msgid "Responsible for the company’s PC project (reactjs) template, backend project (nestjs) framework construction, Mars scaffolding project construction (similar to create react app), Uniapp mini program development, etc. The job responsibilities include: 1. Interface with user needs and provide feasible solutions, including mobile, PC, and mini program businesses Functional implementation; 2、 Developing and implementing skeleton screen adaptation using webpack plugins; 3、 Code optimization, such as refactoring the original Mars project framework and upgrading versions; 4、 Having full stack experience."
-msgstr ""
+msgstr "负责公司PC端项目（reactjs）模板，后端项目（nestjs）框架搭建，mars脚手架项目搭建（类似create-react-app），uniapp小程序开发等。其中工作内容包括：一、对接用户需求并给出可行解决方案，包括移动端、PC端和小程序业务功能实现；二、使用webpack插件开发实现骨架屏适配；三、代码优化，如原有mars项目框架重构，版本升级等；四、具有全栈经验。"
 
 #: src/pages/resume.tsx:239
 msgid "Self Evaluation"
-msgstr ""
+msgstr "自我评价"
 
 #: src/pages/resume.tsx:115
 msgid "Tencent Computer Systems Co., Ltd"
-msgstr ""
+msgstr "腾讯计算机系统有限公司"
 
 #: src/pages/resume.tsx:196
 msgid "The Anxin Sign project is a web PC+app embedded H5 project, implemented through webpack+react+antd ui+antd mobile ui. major function It is to achieve that users need to sign contracts with the company. There are many contracts that need to be signed online, and text messages are sent through the company’s backend system operation. Users can access the messages upon seeing them Sign contracts with relevant links, compatible with PC end."
-msgstr ""
+msgstr "安心签项目是web PC端+app 嵌入H5项目，实现方式webpack+react+antd ui+antd mobile ui。主要功能是实现用户需要与公司签合同，合同数量很多需要通过线上签署，通过公司后台系统操作发送短信，用户看到短信访问相关链接签署合同，兼容PC端。"
 
 #: src/pages/resume.tsx:229
 msgid "The implementation method for the Tonghuashun account opening project is webpack+vue2+vant. The main function is to achieve account opening and login, input identity information, account association settings, and tripartite Storage, video authentication, involving calling flush SDK, encapsulating SDK tool library, SDK tool library implementation including but not limited to ID information recognition, OCR recognition, Face recognition, single video intelligent recognition, bidirectional video authentication, etc."
-msgstr ""
+msgstr "同花顺开户项目实现方式webpack+vue2+vant。主要功能是实现开户登录，录入身份信息，账户关联设置，三方存管，视频认证，涉及调用同花顺sdk，封装sdk工具库，sdk工具库实现包括但不限于身份证信息识别，ocr识别，人脸识别，单项视频智能识别，双向视频认证等。"
 
 #: src/pages/resume.tsx:207
 msgid "The implementation method of this project is umi+react+antd+ts+dva, mainly used to manage master articles pushed by the company’s app, edit articles, and master information, Dynamic permission allocation, user setting permissions, robust financial management, dynamic configuration of banner charts, landing pages, etc., visualization of company backend data display data dashboards, etc Heart function implementation."
-msgstr ""
+msgstr "本项目实现方式为umi+react+antd+ts+dva，主要用于管理公司app推送的大师文章，编辑文章和大师信息等，动态权限分配，用户设置权限，稳健理财管理动态配置banner图，落地页等，公司后台数据可视化展示数据看板等核心功能实现。"
 
 #: src/pages/resume.tsx:218
 msgid "The implementation method of this project is webpack+vue2+vant+ts+echart. Mainly used to display the trend charts of company funds and stocks, as well as master article push, etc, The technologies involved include client-side interaction js bridge, mobile adaptation rem, multi page skeleton screen, etc., to complete the business development of various modules and improve user vision Experience and fluency."
-msgstr ""
+msgstr "本项目实现方式为webpack+vue2+vant+ts+echart。主要用于展示公司基金、股票的走势图和大师文章推送等，涉及的技术有客户端交互js-bridge，移动端适配rem，多页面骨架屏等，完成各个模块的业务开发，提高用户的视觉体验和流畅度。"
 
 #: src/pages/resume.tsx:128
 msgid "Tianjin Shiqiao International Logistics Co., Ltd"
-msgstr ""
+msgstr "天津狮桥国际物流有限公司"
 
 #: src/pages/resume.tsx:132
 msgid "Using the Reactjs framework, connect with the React Native development of the company’s fuel truck station Android and iOS, and develop website including H5 and PC business function implementation."
-msgstr ""
+msgstr "使用reactjs框架，对接公司油卡油站android和ios的RN开发，开发网站包括H5和PC端的业务功能实现等。"
 
 #: src/pages/resume.tsx:106
 msgid "Work Experience"
-msgstr ""
+msgstr "工作经历"
 
 #: src/pages/resume.tsx:31
 msgid "XIN HONG WANG"
-msgstr ""
+msgstr "王欣鸿"
