@@ -18,7 +18,7 @@ export const getStaticProps: GetStaticProps = async (ctx) => {
 export default function Resume() {
     return (
         <Layout>
-            <div className="bg-white/[.99] h-screen w-7/12 overflow-y-scroll resume__center--main">
+            <div className="bg-white/[.99] h-screen w-[868px] overflow-y-scroll resume__center--main">
                 <header className="bg-resume-blue h-[100px] flex items-end pl-5 pb-3">
                     <div className="text-2xl font-semibold text-white">
                         <Trans>
