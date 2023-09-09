@@ -176,7 +176,7 @@ export default function Resume() {
                                 <Trans>Proficient in mastering the basic operating commands of Linux, proficient in building server environments and fixing server issues.</Trans>
                             </div>
                             <div className="text-sm font-semibold font-serif mt-2">
-                                <Trans>Master the usage methods and basic principles of Node.js, NPM, webpack, and vite packaging tools.</Trans>
+                                <Trans>Master Node.js, NPM, webpack, vite packaging tools, etc.</Trans>
                             </div>
                             <div className="text-sm font-semibold font-serif mt-2">
                                 <Trans>Proficient in using version control tools such as git, tapd, and release tools for project progress control.</Trans>

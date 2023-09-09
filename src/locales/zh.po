@@ -86,8 +86,8 @@ msgid "Major: Computer Technology"
 msgstr "专业：计算机技术"
 
 #: src/pages/resume.tsx:179
-msgid "Master the usage methods and basic principles of Node.js, NPM, webpack, and vite packaging tools."
-msgstr "掌握Node.js,npm,webpack，vite打包工具的使用方法和基本原理。"
+msgid "Master Node.js, NPM, webpack, vite packaging tools, etc."
+msgstr "掌握Node.js,npm,webpack，vite打包工具等。"
 
 #: src/pages/index.tsx:25
 msgid "My Resume"
