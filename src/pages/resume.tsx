@@ -140,7 +140,7 @@ export default function Resume() {
                                     <Trans>Anxin Sign System</Trans>
                                 </div>
                                 <div className="resume__pro--content">
-                                    <Trans>The Anxin Sign project is a web PC+app embedded H5 project, implemented through webpack+react+antd ui+antd mobile ui. The main function is to enable users to sign contracts with the company. A large number of contracts need to be signed online, and SMS can be sent through the company's backend system. Users can access the relevant links to sign contracts when they see the SMS, and it is compatible with the PC end.
+                                    <Trans>The Anxin Sign project is a web PC+app embedded H5 project, implemented through webpack+react+antd ui+antd mobile ui. The main function is to enable users to sign contracts with the company. A large number of contracts need to be signed online, and SMS can be sent through the company&apos;s backend system. Users can access the relevant links to sign contracts when they see the SMS, and it is compatible with the PC end.
                                     The final result was successfully launched and received recognition from the product manager and leadership, helping the company solve the tedious work of signing contracts with customers.
                                     </Trans>
                                 </div>
@@ -150,7 +150,7 @@ export default function Resume() {
                                     <Trans>Investment Master Backend Management System</Trans>
                                 </div>
                                 <div className="resume__pro--content">
-                                    <Trans>The Investment Master backend is the backend management system of Kyushu Securities, implemented through umi+react+antd+ts+dva. It is used to push articles to the company's Investment Master app, edit Master articles and related information, dynamically allocate permissions, set user permissions, dynamically configure banner images, landing pages, etc. and achieve functions such as visualizing company backend data and viewing company large screen data dashboards.
+                                    <Trans>The Investment Master backend is the backend management system of Kyushu Securities, implemented through umi+react+antd+ts+dva. It is used to push articles to the company&apos;s Investment Master app, edit Master articles and related information, dynamically allocate permissions, set user permissions, dynamically configure banner images, landing pages, etc. and achieve functions such as visualizing company backend data and viewing company large screen data dashboards.
                                     The final effect is achieved by linking the functions of the Investment Master app, pushing data, and improving the maintainability and user stickiness of the app.
                                     </Trans>
                                 </div>
@@ -160,8 +160,8 @@ export default function Resume() {
                                     <Trans>Hybrid APP development</Trans>
                                 </div>
                                 <div className="resume__pro--content">
-                                    <Trans>1) The H5 interface implementation method of the Investment Master app is webpack+vue2+vant+ts+echart. Used for displaying master articles and company's funds and stocks, mixed with the native display of the app, such as a single page, has a native tabs, and detailed information of H5 below. The frequently changing content is developed using H5, while other parts are developed using native development.
-The final effect is to complete the daily maintenance and business iteration of the Investment Master app, improve the app's click through rate and user traffic, and assist in app updates and upgrades.
+                                    <Trans>1) The H5 interface implementation method of the Investment Master app is webpack+vue2+vant+ts+echart. Used for displaying master articles and company&apos;s funds and stocks, mixed with the native display of the app, such as a single page, has a native tabs, and detailed information of H5 below. The frequently changing content is developed using H5, while other parts are developed using native development.
+The final effect is to complete the daily maintenance and business iteration of the Investment Master app, improve the app&apos;s click through rate and user traffic, and assist in app updates and upgrades.
                                     </Trans>
                                 </div>
                                 <div className="resume__pro--content">
@@ -226,7 +226,7 @@ The final result, app7.0, was launched and received recognition from leaders and
                                     </span>
                                 </div>
                                 <div className="resume__exper--content text-sm font-medium font-sans">
-                                    <Trans>Responsible for the development and maintenance of front-end projects related to the company's investment master, as well as the construction of PC project (reactjs) templates, back-end project (nestjs) frameworks, and development of uniapp mini programs.
+                                    <Trans>Responsible for the development and maintenance of front-end projects related to the company&apos;s investment master, as well as the construction of PC project (reactjs) templates, back-end project (nestjs) frameworks, and development of uniapp mini programs.
                                     </Trans>
                                 </div>
                             </div>
@@ -240,7 +240,7 @@ The final result, app7.0, was launched and received recognition from leaders and
                                     </span>
                                 </div>
                                 <div className="resume__exper--content text-sm font-medium font-sans">
-                                    <Trans>Responsible for the development and maintenance of the YLB app for the company's fund department, with the main technology stack being Vue, and collaborating with developers from the JRJ website department to jointly develop AI big model related businesses.
+                                    <Trans>Responsible for the development and maintenance of the YLB app for the company&apos;s fund department, with the main technology stack being Vue, and collaborating with developers from the JRJ website department to jointly develop AI big model related businesses.
                                     </Trans>
                                 </div>
                             </div>
