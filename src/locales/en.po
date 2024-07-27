@@ -17,17 +17,33 @@ msgstr ""
 msgid "0086-17612200673"
 msgstr "0086-17612200673"
 
+#: src/pages/resume.tsx:163
+msgid "1) The H5 interface implementation method of the Investment Master app is webpack+vue2+vant+ts+echart. Used for displaying master articles and company's funds and stocks, mixed with the native display of the app, such as a single page, has a native tabs, and detailed information of H5 below. The frequently changing content is developed using H5, while other parts are developed using native development. The final effect is to complete the daily maintenance and business iteration of the Investment Master app, improve the app's click through rate and user traffic, and assist in app updates and upgrades."
+msgstr "1) The H5 interface implementation method of the Investment Master app is webpack+vue2+vant+ts+echart. Used for displaying master articles and company's funds and stocks, mixed with the native display of the app, such as a single page, has a native tabs, and detailed information of H5 below. The frequently changing content is developed using H5, while other parts are developed using native development. The final effect is to complete the daily maintenance and business iteration of the Investment Master app, improve the app's click through rate and user traffic, and assist in app updates and upgrades."
+
+#: src/pages/resume.tsx:168
+msgid "2) The development of the YLB app and H5 page is achieved through the Hang Seng Light packaging tool for multi platform publishing, similar to Uniapp. The main development techniques are vue2+less+atomized CSS+light (webpack). A component package for H5 communication with the app has been developed, making the interface and user experience of the app more user-friendly. The final result, app7.0, was launched and received recognition from leaders and colleagues."
+msgstr "2) The development of the YLB app and H5 page is achieved through the Hang Seng Light packaging tool for multi platform publishing, similar to Uniapp. The main development techniques are vue2+less+atomized CSS+light (webpack). A component package for H5 communication with the app has been developed, making the interface and user experience of the app more user-friendly. The final result, app7.0, was launched and received recognition from leaders and colleagues."
+
 #: src/pages/resume.tsx:97
 msgid "2017.09-2019.06"
 msgstr "2017.09-2019.06"
 
-#: src/pages/resume.tsx:151
-msgid "2021.10—NOW"
-msgstr "2021.10—NOW"
+#: src/pages/resume.tsx:222
+msgid "2021.10—2023.11"
+msgstr "2021.10—2023.11"
+
+#: src/pages/resume.tsx:236
+msgid "2023.12—NOW"
+msgstr "2023.12—NOW"
 
 #: src/pages/resume.tsx:74
 msgid "2522202958@qq.com"
 msgstr "2522202958@qq.com"
+
+#: src/pages/resume.tsx:140
+msgid "Anxin Sign System"
+msgstr "Anxin Sign System"
 
 #: src/pages/resume.tsx:56
 msgid "Beijing"
@@ -37,13 +53,21 @@ msgstr "Beijing"
 msgid "Birthday:"
 msgstr "Birthday:"
 
-#: src/pages/resume.tsx:141
+#: src/pages/resume.tsx:212
 msgid "China Electronics Technology Group 15th Research Institute"
 msgstr "China Electronics Technology Group 15th Research Institute"
+
+#: src/pages/resume.tsx:262
+msgid "Climbing mountains, running, swimming, playing basketball, and playing WANG ZHE RONG YAO mobile games"
+msgstr "Climbing mountains, running, swimming, playing basketball, and playing WANG ZHE RONG YAO mobile games"
 
 #: src/pages/resume.tsx:53
 msgid "Current Residence:"
 msgstr "Current Residence:"
+
+#: src/pages/resume.tsx:190
+msgid "Design and implement a JavaScript obfuscation system, machine learning to distinguish malicious sliding trajectories, such as automata malicious login, etc. Develop websites using the React JS framework, including H5 and PC functionality implementation."
+msgstr "Design and implement a JavaScript obfuscation system, machine learning to distinguish malicious sliding trajectories, such as automata malicious login, etc. Develop websites using the React JS framework, including H5 and PC functionality implementation."
 
 #: src/pages/resume.tsx:83
 msgid "discuss personally"
@@ -65,33 +89,37 @@ msgstr "Email:"
 msgid "Expected Salary:"
 msgstr "Expected Salary:"
 
-#: src/pages/resume.tsx:242
+#: src/pages/resume.tsx:160
+msgid "Hybrid APP development"
+msgstr "Hybrid APP development"
+
+#: src/pages/resume.tsx:254
 msgid "I have strong professional abilities, a spirit of exploration, a wide range of interests in daily life, strong ability to withstand pressure, and am good at teamwork."
 msgstr "I have strong professional abilities, a spirit of exploration, a wide range of interests in daily life, strong ability to withstand pressure, and am good at teamwork."
+
+#: src/pages/resume.tsx:259
+msgid "Interest"
+msgstr "Interest"
+
+#: src/pages/resume.tsx:150
+msgid "Investment Master Backend Management System"
+msgstr "Investment Master Backend Management System"
 
 #: src/pages/resume.tsx:36
 msgid "Job Intention: Front-end Development Engineer"
 msgstr "Job Intention: Front-end Development Engineer"
 
-#: src/pages/resume.tsx:154
+#: src/pages/resume.tsx:225
 msgid "Kyushu Securities Co., Ltd"
 msgstr "Kyushu Securities Co., Ltd"
 
-#: src/pages/resume.tsx:145
+#: src/pages/resume.tsx:216
 msgid "Mainly using the Reactjs and Vuejs frameworks, developing echart views, docking with company military projects, and developing PC and mobile web pages."
 msgstr "Mainly using the Reactjs and Vuejs frameworks, developing echart views, docking with company military projects, and developing PC and mobile web pages."
 
 #: src/pages/resume.tsx:99
 msgid "Major: Computer Technology"
 msgstr "Major: Computer Technology"
-
-#: src/pages/resume.tsx:179
-msgid "Master Node.js, NPM, webpack, vite packaging tools, etc."
-msgstr "Master Node.js, NPM, webpack, vite packaging tools, etc."
-
-#: src/pages/resume.tsx:179
-#~ msgid "Master the usage methods and basic principles of Node.js, NPM, webpack, and vite packaging tools."
-#~ msgstr "Master the usage methods and basic principles of Node.js, NPM, webpack, and vite packaging tools."
 
 #: src/pages/index.tsx:25
 msgid "My Resume"
@@ -117,85 +145,77 @@ msgstr "Nankai University"
 msgid "Phone:"
 msgstr "Phone:"
 
-#: src/pages/resume.tsx:169
+#: src/pages/resume.tsx:106
 msgid "Professional Skills"
 msgstr "Professional Skills"
 
-#: src/pages/resume.tsx:176
-msgid "Proficient in mastering the basic operating commands of Linux, proficient in building server environments and fixing server issues."
-msgstr "Proficient in mastering the basic operating commands of Linux, proficient in building server environments and fixing server issues."
+#: src/pages/resume.tsx:110
+msgid "Proficient in front-end frameworks and syntax such as Vue, React, JavaScript, and ES6 syntax."
+msgstr "Proficient in front-end frameworks and syntax such as Vue, React, JavaScript, and ES6 syntax."
 
-#: src/pages/resume.tsx:173
-msgid "Proficient in React, Vue, JavaScript, and ES6 syntax, with basic data structure and algorithm practice and application abilities."
-msgstr "Proficient in React, Vue, JavaScript, and ES6 syntax, with basic data structure and algorithm practice and application abilities."
+#: src/pages/resume.tsx:113
+msgid "Proficient in using Linux system environment and setting up front-end related server environment and fixing front-end server issues."
+msgstr "Proficient in using Linux system environment and setting up front-end related server environment and fixing front-end server issues."
 
-#: src/pages/resume.tsx:182
-msgid "Proficient in using version control tools such as git, tapd, and release tools for project progress control."
-msgstr "Proficient in using version control tools such as git, tapd, and release tools for project progress control."
+#: src/pages/resume.tsx:119
+msgid "Proficient in using version control tools and release tools such as Git, Tapd, Jenkins, etc. for project progress control."
+msgstr "Proficient in using version control tools and release tools such as Git, Tapd, Jenkins, etc. for project progress control."
 
-#: src/pages/resume.tsx:193
-msgid "PROJECT 1: Anxin Sign"
-msgstr "PROJECT 1: Anxin Sign"
+#: src/pages/resume.tsx:116
+msgid "Proficient in webpack, vite, NextJS and other packaging tools."
+msgstr "Proficient in webpack, vite, NextJS and other packaging tools."
 
-#: src/pages/resume.tsx:204
-msgid "PROJECT 2: Investment Master Background Management System"
-msgstr "PROJECT 2: Investment Master Background Management System"
-
-#: src/pages/resume.tsx:215
-msgid "PROJECT 3: Hybrid APP embedded in H5 project"
-msgstr "PROJECT 3: Hybrid APP embedded in H5 project"
-
-#: src/pages/resume.tsx:226
-msgid "PROJECT 4: Opening an account with Tonghuashun"
-msgstr "PROJECT 4: Opening an account with Tonghuashun"
-
-#: src/pages/resume.tsx:188
+#: src/pages/resume.tsx:125
 msgid "Project Experience"
 msgstr "Project Experience"
 
-#: src/pages/resume.tsx:119
-msgid "Research and exploration of JavaScript obfuscation systems, machine learning to distinguish malicious sliding trajectories, such as automata malicious logins, etc."
-msgstr "Research and exploration of JavaScript obfuscation systems, machine learning to distinguish malicious sliding trajectories, such as automata malicious logins, etc."
+#: src/pages/resume.tsx:130
+msgid "Recent open source projects"
+msgstr "Recent open source projects"
 
-#: src/pages/resume.tsx:158
-msgid "Responsible for the company’s PC project (reactjs) template, backend project (nestjs) framework construction, Mars scaffolding project construction (similar to create react app), Uniapp mini program development, etc. The job responsibilities include: 1. Interface with user needs and provide feasible solutions, including mobile, PC, and mini program businesses Functional implementation; 2、 Developing and implementing skeleton screen adaptation using webpack plugins; 3、 Code optimization, such as refactoring the original Mars project framework and upgrading versions; 4、 Having full stack experience."
-msgstr "Responsible for the company’s PC project (reactjs) template, backend project (nestjs) framework construction, Mars scaffolding project construction (similar to create react app), Uniapp mini program development, etc. The job responsibilities include: 1. Interface with user needs and provide feasible solutions, including mobile, PC, and mini program businesses Functional implementation; 2、 Developing and implementing skeleton screen adaptation using webpack plugins; 3、 Code optimization, such as refactoring the original Mars project framework and upgrading versions; 4、 Having full stack experience."
+#: src/pages/resume.tsx:229
+msgid "Responsible for the development and maintenance of front-end projects related to the company's investment master, as well as the construction of PC project (reactjs) templates, back-end project (nestjs) frameworks, and development of uniapp mini programs."
+msgstr "Responsible for the development and maintenance of front-end projects related to the company's investment master, as well as the construction of PC project (reactjs) templates, back-end project (nestjs) frameworks, and development of uniapp mini programs."
 
-#: src/pages/resume.tsx:239
+#: src/pages/resume.tsx:243
+msgid "Responsible for the development and maintenance of the YLB app for the company's fund department, with the main technology stack being Vue, and collaborating with developers from the JRJ website department to jointly develop AI big model related businesses."
+msgstr "Responsible for the development and maintenance of the YLB app for the company's fund department, with the main technology stack being Vue, and collaborating with developers from the JRJ website department to jointly develop AI big model related businesses."
+
+#: src/pages/resume.tsx:251
 msgid "Self Evaluation"
 msgstr "Self Evaluation"
 
-#: src/pages/resume.tsx:115
+#: src/pages/resume.tsx:239
+msgid "Shenzhen New Land Securities Investment Consulting Co., Ltd"
+msgstr "Shenzhen New Land Securities Investment Consulting Co., Ltd"
+
+#: src/pages/resume.tsx:186
 msgid "Tencent Computer Systems Co., Ltd"
 msgstr "Tencent Computer Systems Co., Ltd"
 
-#: src/pages/resume.tsx:196
-msgid "The Anxin Sign project is a web PC+app embedded H5 project, implemented through webpack+react+antd ui+antd mobile ui. major function It is to achieve that users need to sign contracts with the company. There are many contracts that need to be signed online, and text messages are sent through the company’s backend system operation. Users can access the messages upon seeing them Sign contracts with relevant links, compatible with PC end."
-msgstr "The Anxin Sign project is a web PC+app embedded H5 project, implemented through webpack+react+antd ui+antd mobile ui. major function It is to achieve that users need to sign contracts with the company. There are many contracts that need to be signed online, and text messages are sent through the company’s backend system operation. Users can access the messages upon seeing them Sign contracts with relevant links, compatible with PC end."
+#: src/pages/resume.tsx:143
+msgid "The Anxin Sign project is a web PC+app embedded H5 project, implemented through webpack+react+antd ui+antd mobile ui. The main function is to enable users to sign contracts with the company. A large number of contracts need to be signed online, and SMS can be sent through the company's backend system. Users can access the relevant links to sign contracts when they see the SMS, and it is compatible with the PC end. The final result was successfully launched and received recognition from the product manager and leadership, helping the company solve the tedious work of signing contracts with customers."
+msgstr "The Anxin Sign project is a web PC+app embedded H5 project, implemented through webpack+react+antd ui+antd mobile ui. The main function is to enable users to sign contracts with the company. A large number of contracts need to be signed online, and SMS can be sent through the company's backend system. Users can access the relevant links to sign contracts when they see the SMS, and it is compatible with the PC end. The final result was successfully launched and received recognition from the product manager and leadership, helping the company solve the tedious work of signing contracts with customers."
 
-#: src/pages/resume.tsx:229
-msgid "The implementation method for the Tonghuashun account opening project is webpack+vue2+vant. The main function is to achieve account opening and login, input identity information, account association settings, and tripartite Storage, video authentication, involving calling flush SDK, encapsulating SDK tool library, SDK tool library implementation including but not limited to ID information recognition, OCR recognition, Face recognition, single video intelligent recognition, bidirectional video authentication, etc."
-msgstr "The implementation method for the Tonghuashun account opening project is webpack+vue2+vant. The main function is to achieve account opening and login, input identity information, account association settings, and tripartite Storage, video authentication, involving calling flush SDK, encapsulating SDK tool library, SDK tool library implementation including but not limited to ID information recognition, OCR recognition, Face recognition, single video intelligent recognition, bidirectional video authentication, etc."
+#: src/pages/resume.tsx:133
+msgid "The interface for the large model process orchestration is a PC project, implemented using vite+vue3+ts+sass+vue flow+mit+element plus UI. The main function is to restore several commonly used nodes in the process arrangement of the official website of Coze (button), such as large model nodes, knowledge base nodes, text nodes, etc., which are completely different from the Coze technology stack (Coze uses technologies such as react+semi design+react flow). The open source address of this project is https://github.com/wxh4321/coze-flow-test The final effect restores most of the interface details. By writing this project, it can be seen that the Coze team has an ultimate pursuit of details, with various complex and detailed interface interactions. The overall architecture of this project and the encapsulation of components are sufficient to meet the expansion of other process orchestration nodes."
+msgstr "The interface for the large model process orchestration is a PC project, implemented using vite+vue3+ts+sass+vue flow+mit+element plus UI. The main function is to restore several commonly used nodes in the process arrangement of the official website of Coze (button), such as large model nodes, knowledge base nodes, text nodes, etc., which are completely different from the Coze technology stack (Coze uses technologies such as react+semi design+react flow). The open source address of this project is https://github.com/wxh4321/coze-flow-test The final effect restores most of the interface details. By writing this project, it can be seen that the Coze team has an ultimate pursuit of details, with various complex and detailed interface interactions. The overall architecture of this project and the encapsulation of components are sufficient to meet the expansion of other process orchestration nodes."
 
-#: src/pages/resume.tsx:207
-msgid "The implementation method of this project is umi+react+antd+ts+dva, mainly used to manage master articles pushed by the company’s app, edit articles, and master information, Dynamic permission allocation, user setting permissions, robust financial management, dynamic configuration of banner charts, landing pages, etc., visualization of company backend data display data dashboards, etc Heart function implementation."
-msgstr "The implementation method of this project is umi+react+antd+ts+dva, mainly used to manage master articles pushed by the company’s app, edit articles, and master information, Dynamic permission allocation, user setting permissions, robust financial management, dynamic configuration of banner charts, landing pages, etc., visualization of company backend data display data dashboards, etc Heart function implementation."
+#: src/pages/resume.tsx:153
+msgid "The Investment Master backend is the backend management system of Kyushu Securities, implemented through umi+react+antd+ts+dva. It is used to push articles to the company's Investment Master app, edit Master articles and related information, dynamically allocate permissions, set user permissions, dynamically configure banner images, landing pages, etc. and achieve functions such as visualizing company backend data and viewing company large screen data dashboards. The final effect is achieved by linking the functions of the Investment Master app, pushing data, and improving the maintainability and user stickiness of the app."
+msgstr "The Investment Master backend is the backend management system of Kyushu Securities, implemented through umi+react+antd+ts+dva. It is used to push articles to the company's Investment Master app, edit Master articles and related information, dynamically allocate permissions, set user permissions, dynamically configure banner images, landing pages, etc. and achieve functions such as visualizing company backend data and viewing company large screen data dashboards. The final effect is achieved by linking the functions of the Investment Master app, pushing data, and improving the maintainability and user stickiness of the app."
 
-#: src/pages/resume.tsx:218
-msgid "The implementation method of this project is webpack+vue2+vant+ts+echart. Mainly used to display the trend charts of company funds and stocks, as well as master article push, etc, The technologies involved include client-side interaction js bridge, mobile adaptation rem, multi page skeleton screen, etc., to complete the business development of various modules and improve user vision Experience and fluency."
-msgstr "The implementation method of this project is webpack+vue2+vant+ts+echart. Mainly used to display the trend charts of company funds and stocks, as well as master article push, etc, The technologies involved include client-side interaction js bridge, mobile adaptation rem, multi page skeleton screen, etc., to complete the business development of various modules and improve user vision Experience and fluency."
-
-#: src/pages/resume.tsx:128
+#: src/pages/resume.tsx:199
 msgid "Tianjin Shiqiao International Logistics Co., Ltd"
 msgstr "Tianjin Shiqiao International Logistics Co., Ltd"
 
-#: src/pages/resume.tsx:132
+#: src/pages/resume.tsx:203
 msgid "Using the Reactjs framework, connect with the React Native development of the company’s fuel truck station Android and iOS, and develop website including H5 and PC business function implementation."
 msgstr "Using the Reactjs framework, connect with the React Native development of the company’s fuel truck station Android and iOS, and develop website including H5 and PC business function implementation."
 
-#: src/pages/resume.tsx:106
-msgid "Work Experience"
-msgstr "Work Experience"
+#: src/pages/resume.tsx:177
+msgid "Work and internship experience"
+msgstr "Work and internship experience"
 
 #: src/pages/resume.tsx:31
 msgid "XIN HONG WANG"

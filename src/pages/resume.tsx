@@ -103,7 +103,78 @@ export default function Resume() {
                     </article>
                     <article>
                         <div className="resume__title">
-                            <Trans>Work Experience</Trans>
+                            <Trans>Professional Skills</Trans>
+                        </div>
+                        <div className="resume__content">
+                            <div className="text-sm font-semibold font-serif">
+                                <Trans>Proficient in front-end frameworks and syntax such as Vue, React, JavaScript, and ES6 syntax.</Trans>
+                            </div>
+                            <div className="text-sm font-semibold font-serif mt-2">
+                                <Trans>Proficient in using Linux system environment and setting up front-end related server environment and fixing front-end server issues.</Trans>
+                            </div>
+                            <div className="text-sm font-semibold font-serif mt-2">
+                                <Trans>Proficient in webpack, vite, NextJS and other packaging tools.</Trans>
+                            </div>
+                            <div className="text-sm font-semibold font-serif mt-2">
+                                <Trans>Proficient in using version control tools and release tools such as Git, Tapd, Jenkins, etc. for project progress control.</Trans>
+                            </div>
+                        </div>
+                    </article>
+                    <article>
+                        <div className="resume__title">
+                            <Trans>Project Experience</Trans>
+                        </div>
+                        <div className="resume__content">
+                            <div className="resume__pro--item">
+                                <div className="resume__pro--title">
+                                    <Trans>Recent open source projects</Trans>
+                                </div>
+                                <div className="resume__pro--content">
+                                    <Trans>The interface for the large model process orchestration is a PC project, implemented using vite+vue3+ts+sass+vue flow+mit+element plus UI. The main function is to restore several commonly used nodes in the process arrangement of the official website of Coze (button), such as large model nodes, knowledge base nodes, text nodes, etc., which are completely different from the Coze technology stack (Coze uses technologies such as react+semi design+react flow). The open source address of this project is https://github.com/wxh4321/coze-flow-test
+                                    The final effect restores most of the interface details. By writing this project, it can be seen that the Coze team has an ultimate pursuit of details, with various complex and detailed interface interactions. The overall architecture of this project and the encapsulation of components are sufficient to meet the expansion of other process orchestration nodes.
+                                    </Trans>
+                                </div>
+                            </div>
+                            <div className="resume__pro--item">
+                                <div className="resume__pro--title">
+                                    <Trans>Anxin Sign System</Trans>
+                                </div>
+                                <div className="resume__pro--content">
+                                    <Trans>The Anxin Sign project is a web PC+app embedded H5 project, implemented through webpack+react+antd ui+antd mobile ui. The main function is to enable users to sign contracts with the company. A large number of contracts need to be signed online, and SMS can be sent through the company's backend system. Users can access the relevant links to sign contracts when they see the SMS, and it is compatible with the PC end.
+                                    The final result was successfully launched and received recognition from the product manager and leadership, helping the company solve the tedious work of signing contracts with customers.
+                                    </Trans>
+                                </div>
+                            </div>
+                            <div className="resume__pro--item">
+                                <div className="resume__pro--title">
+                                    <Trans>Investment Master Backend Management System</Trans>
+                                </div>
+                                <div className="resume__pro--content">
+                                    <Trans>The Investment Master backend is the backend management system of Kyushu Securities, implemented through umi+react+antd+ts+dva. It is used to push articles to the company's Investment Master app, edit Master articles and related information, dynamically allocate permissions, set user permissions, dynamically configure banner images, landing pages, etc. and achieve functions such as visualizing company backend data and viewing company large screen data dashboards.
+                                    The final effect is achieved by linking the functions of the Investment Master app, pushing data, and improving the maintainability and user stickiness of the app.
+                                    </Trans>
+                                </div>
+                            </div>
+                            <div className="resume__pro--item">
+                                <div className="resume__pro--title">
+                                    <Trans>Hybrid APP development</Trans>
+                                </div>
+                                <div className="resume__pro--content">
+                                    <Trans>1) The H5 interface implementation method of the Investment Master app is webpack+vue2+vant+ts+echart. Used for displaying master articles and company's funds and stocks, mixed with the native display of the app, such as a single page, has a native tabs, and detailed information of H5 below. The frequently changing content is developed using H5, while other parts are developed using native development.
+The final effect is to complete the daily maintenance and business iteration of the Investment Master app, improve the app's click through rate and user traffic, and assist in app updates and upgrades.
+                                    </Trans>
+                                </div>
+                                <div className="resume__pro--content">
+                                    <Trans>2) The development of the YLB app and H5 page is achieved through the Hang Seng Light packaging tool for multi platform publishing, similar to Uniapp. The main development techniques are vue2+less+atomized CSS+light (webpack). A component package for H5 communication with the app has been developed, making the interface and user experience of the app more user-friendly.
+The final result, app7.0, was launched and received recognition from leaders and colleagues.
+                                    </Trans>
+                                </div>
+                            </div>
+                        </div>
+                    </article>
+                    <article>
+                        <div className="resume__title">
+                            <Trans>Work and internship experience</Trans>
                         </div>
                         <div className="resume__content">
                             <div>
@@ -116,7 +187,7 @@ export default function Resume() {
                                     </span>
                                 </div>
                                 <div className="resume__exper--content text-sm font-medium font-sans">
-                                    <Trans>Research and exploration of JavaScript obfuscation systems, machine learning to distinguish malicious sliding trajectories, such as automata malicious logins, etc.</Trans>
+                                    <Trans>Design and implement a JavaScript obfuscation system, machine learning to distinguish malicious sliding trajectories, such as automata malicious login, etc. Develop websites using the React JS framework, including H5 and PC functionality implementation.</Trans>
                                 </div>
                             </div>
                             <div className="resume__exper--item">
@@ -148,87 +219,28 @@ export default function Resume() {
                             <div className="resume__exper--item">
                                 <div className="resume__exper--title text-base font-medium font-sans">
                                     <span>
-                                        <Trans>2021.10—NOW</Trans>
+                                        <Trans>2021.10—2023.11</Trans>
                                     </span>
                                     <span className="ml-4">
                                         <Trans>Kyushu Securities Co., Ltd</Trans>
                                     </span>
                                 </div>
                                 <div className="resume__exper--content text-sm font-medium font-sans">
-                                    <Trans>Responsible for the company&rsquo;s PC project (reactjs) template, backend project (nestjs) framework construction, Mars scaffolding project construction (similar to create react app),
-                                    Uniapp mini program development, etc. The job responsibilities include: 1. Interface with user needs and provide feasible solutions, including mobile, PC, and mini program businesses
-                                    Functional implementation; 2、 Developing and implementing skeleton screen adaptation using webpack plugins; 3、 Code optimization, such as refactoring the original Mars project framework and upgrading versions;
-                                    4、 Having full stack experience.
+                                    <Trans>Responsible for the development and maintenance of front-end projects related to the company's investment master, as well as the construction of PC project (reactjs) templates, back-end project (nestjs) frameworks, and development of uniapp mini programs.
                                     </Trans>
                                 </div>
                             </div>
-                        </div>
-                    </article>
-                    <article>
-                        <div className="resume__title">
-                            <Trans>Professional Skills</Trans>
-                        </div>
-                        <div className="resume__content">
-                            <div className="text-sm font-semibold font-serif">
-                                <Trans>Proficient in React, Vue, JavaScript, and ES6 syntax, with basic data structure and algorithm practice and application abilities.</Trans>
-                            </div>
-                            <div className="text-sm font-semibold font-serif mt-2">
-                                <Trans>Proficient in mastering the basic operating commands of Linux, proficient in building server environments and fixing server issues.</Trans>
-                            </div>
-                            <div className="text-sm font-semibold font-serif mt-2">
-                                <Trans>Master Node.js, NPM, webpack, vite packaging tools, etc.</Trans>
-                            </div>
-                            <div className="text-sm font-semibold font-serif mt-2">
-                                <Trans>Proficient in using version control tools such as git, tapd, and release tools for project progress control.</Trans>
-                            </div>
-                        </div>
-                    </article>
-                    <article>
-                        <div className="resume__title">
-                            <Trans>Project Experience</Trans>
-                        </div>
-                        <div className="resume__content">
-                            <div className="resume__pro--item">
-                                <div className="resume__pro--title">
-                                    <Trans>PROJECT 1: Anxin Sign</Trans>
+                            <div className="resume__exper--item">
+                                <div className="resume__exper--title text-base font-medium font-sans">
+                                    <span>
+                                        <Trans>2023.12—NOW</Trans>
+                                    </span>
+                                    <span className="ml-4">
+                                        <Trans>Shenzhen New Land Securities Investment Consulting Co., Ltd</Trans>
+                                    </span>
                                 </div>
-                                <div className="resume__pro--content">
-                                    <Trans>The Anxin Sign project is a web PC+app embedded H5 project, implemented through webpack+react+antd ui+antd mobile ui. major function
-                                    It is to achieve that users need to sign contracts with the company. There are many contracts that need to be signed online, and text messages are sent through the company&rsquo;s backend system operation. Users can access the messages upon seeing them
-                                    Sign contracts with relevant links, compatible with PC end.
-                                    </Trans>
-                                </div>
-                            </div>
-                            <div className="resume__pro--item">
-                                <div className="resume__pro--title">
-                                    <Trans>PROJECT 2: Investment Master Background Management System</Trans>
-                                </div>
-                                <div className="resume__pro--content">
-                                    <Trans>The implementation method of this project is umi+react+antd+ts+dva, mainly used to manage master articles pushed by the company&rsquo;s app, edit articles, and master information,
-                                    Dynamic permission allocation, user setting permissions, robust financial management, dynamic configuration of banner charts, landing pages, etc., visualization of company backend data display data dashboards, etc
-                                    Heart function implementation.
-                                    </Trans>
-                                </div>
-                            </div>
-                            <div className="resume__pro--item">
-                                <div className="resume__pro--title">
-                                    <Trans>PROJECT 3: Hybrid APP embedded in H5 project</Trans>
-                                </div>
-                                <div className="resume__pro--content">
-                                    <Trans>The implementation method of this project is webpack+vue2+vant+ts+echart. Mainly used to display the trend charts of company funds and stocks, as well as master article push, etc,
-                                    The technologies involved include client-side interaction js bridge, mobile adaptation rem, multi page skeleton screen, etc., to complete the business development of various modules and improve user vision
-                                    Experience and fluency.
-                                    </Trans>
-                                </div>
-                            </div>
-                            <div className="resume__pro--item">
-                                <div className="resume__pro--title">
-                                    <Trans>PROJECT 4: Opening an account with Tonghuashun</Trans>
-                                </div>
-                                <div className="resume__pro--content">
-                                    <Trans>The implementation method for the Tonghuashun account opening project is webpack+vue2+vant. The main function is to achieve account opening and login, input identity information, account association settings, and tripartite
-                                    Storage, video authentication, involving calling flush SDK, encapsulating SDK tool library, SDK tool library implementation including but not limited to ID information recognition, OCR recognition,
-                                    Face recognition, single video intelligent recognition, bidirectional video authentication, etc.
+                                <div className="resume__exper--content text-sm font-medium font-sans">
+                                    <Trans>Responsible for the development and maintenance of the YLB app for the company's fund department, with the main technology stack being Vue, and collaborating with developers from the JRJ website department to jointly develop AI big model related businesses.
                                     </Trans>
                                 </div>
                             </div>
@@ -240,6 +252,14 @@ export default function Resume() {
                         </div>
                         <div className="resume__content text-sm font-semibold font-serif">
                             <Trans>I have strong professional abilities, a spirit of exploration, a wide range of interests in daily life, strong ability to withstand pressure, and am good at teamwork.</Trans>
+                        </div>
+                    </article>
+                    <article>
+                        <div className="resume__title">
+                            <Trans>Interest</Trans>
+                        </div>
+                        <div className="resume__content text-sm font-semibold font-serif">
+                            <Trans>Climbing mountains, running, swimming, playing basketball, and playing WANG ZHE RONG YAO mobile games</Trans>
                         </div>
                     </article>
                 </main>

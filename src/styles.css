@@ -76,8 +76,9 @@ a {
 }
 .resume__pro--content{
   font-size: 14px;
-  font-weight: 500;
-  color: #999;
+  font-weight: bold;
+  font-style: italic;
+  color: #111;
   text-indent: 2em;
 }
 .resume__img--outside{
@@ -86,6 +87,7 @@ a {
   right: 20px;
 }
 .resume__img--navnormal{
+  margin-top: 2px;
   width: 14px;
   height: 14px;
 }
