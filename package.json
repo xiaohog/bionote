@@ -10,8 +10,7 @@
     "lint": "next lint",
     "extract": "lingui extract",
     "compile": "lingui compile",
-    "build": "node -e \"console.log('run build ...')\"",
-    "deployed": "npm run extract && npm run compile && next build",
+    "build": "npm run extract && npm run compile && next build",
     "start": "next start",
     "lang:extract": "lingui extract --clean"
   },
